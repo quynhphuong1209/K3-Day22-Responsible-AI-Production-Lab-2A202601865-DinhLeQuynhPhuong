@@ -86,9 +86,9 @@
   "legal_classification": {
     "vietnam": {
       "status": "uncertain-requires-legal-review",
-      "rationale": "Regulatory compliance regarding automated profiling must be reviewed under Personal Data Protection Decree 13/2023/ND-CP and Vietnam emerging AI legal framework.",
+      "rationale": "As of 1 January 2026, the Law on Personal Data Protection No. 91/2025/QH15 is the applicable Vietnamese law governing personal data processing. It requires explicit consent before collecting and processing personal data, including automated profiling that influences employment decisions. It is uncertain whether the system's resume parsing and candidate ranking qualify as automated decision-making subject to additional obligations under the 2025 law. Implementing decrees are still being issued and enforcement precedents for AI-based hiring tools have not yet been established. Vietnamese legal and privacy counsel review is required before deployment.",
       "source_ids": [
-        "SRC-01"
+        "SRC-04"
       ]
     },
     "eu": {
